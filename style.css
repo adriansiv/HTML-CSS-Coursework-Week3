@@ -1,1 +1,38 @@
-/*  Add your styling here */
+/*  NAVBAR */
+.container.header {
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+background-image: url("../HTML-CSS-Coursework-Week3/img/deva-williamson-S2jw81lfrG0-unsplash.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 300px;
+}
+.header-title {
+    margin-left: 30%;
+}
+.navbar {
+    position: absolute !important;
+    background:transparent !important;
+}
+.navbar-toggler {
+    position: fixed !important;
+    left:80% !important;
+}
+
+/* BODY */
+.m-t {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.lorem-p {
+    margin: 5%;
+}
+.white-cake {
+    padding: 5%;
+}
+
+    
+}
+
